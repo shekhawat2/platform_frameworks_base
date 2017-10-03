@@ -3979,5 +3979,9 @@ message MetricsEvent {
 
     //Extensions
     EXTENSIONS = 1000;
+
+   // CustomSettings Constant
+    CUSTOM_SETTINGS = 1500;
+
   }
 }
